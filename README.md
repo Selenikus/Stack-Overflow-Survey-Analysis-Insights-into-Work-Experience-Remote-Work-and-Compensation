@@ -6,14 +6,14 @@ Using Pandas in Jupyter Notebook, we answer key questions based on the survey da
 
 ### Analysis Goals
 The analysis addresses the following questions:
-✅ How many people participated in the survey?
-✅ How many respondents answered all questions?
-✅ What are the central tendency measures for Work Experience (WorkExp)?
-✅ How many respondents work remotely?
-✅ What percentage of participants code with Python?
-✅ How many respondents learned to program through online courses?
-✅ Among Python programmers, what are the average and median annual compensations (ConvertedCompYearly) by country?
-✅ What are the education levels of the top 5 highest-paid participants?
+* How many people participated in the survey?
+* How many respondents answered all questions?
+* What are the central tendency measures for Work Experience (WorkExp)?
+* How many respondents work remotely?
+*  What percentage of participants code with Python?
+* How many respondents learned to program through online courses?
+* Among Python programmers, what are the average and median annual compensations (ConvertedCompYearly) by country?
+* What are the education levels of the top 5 highest-paid participants?
 
 ### Dataset
 The Stack Overflow Developer Survey dataset is available on Stack Overflow’s website.
